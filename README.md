@@ -16,7 +16,7 @@ JWT_SECRET=palabrasupersecreta
 ### Frontend (.env)
 
 #### Desarrollo
-```
+```env
 VITE_SITE_KEY=6Leyxxxxxxxxxxxxxx
 VITE_API_URL=http://localhost:4000/api
 VITE_BACKEND_URL=http://localhost:4000
