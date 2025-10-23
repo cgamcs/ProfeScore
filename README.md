@@ -1,7 +1,5 @@
 ## Ejemplos de Configuración de Variables de Entorno
 
----
-
 ### Backend (.env)
 
 #### Desarrollo
